@@ -1,6 +1,6 @@
 class Task{
 
-    constructor(title,description,color,startdate,budget,status,)
+    constructor(title,desc,color,startdate,budget,status)
     {
         this.title = title;
         this.description = desc
